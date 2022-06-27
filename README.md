@@ -7,8 +7,8 @@ I am a developer who is passionate about web development using Python Django. Fe
 
 About me:
 
-- 🔭 I’m currently working on **Moodle LMS**
-- 🌱 I’m currently learning ```Python with Django```
+- 🔭 I’m currently working on ```Python with Django```
+- 🌱 I’m currently learning ```Python ML```
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about ...
