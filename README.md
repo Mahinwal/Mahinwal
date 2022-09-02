@@ -3,7 +3,7 @@
 ----
 <!-- blank line -->
 
-I am a developer who is passionate about web development using Python Django. Few tech that I enjoy working in, are Python,Django, JS, Moodle and MySql. I play watch live cricket!
+I am a developer who is passionate about web development using Python Django. Few tech that I enjoy working in, are Python,Django, JS, Moodle and MySql.
 
 About me:
 
