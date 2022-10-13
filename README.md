@@ -12,7 +12,7 @@ About me:
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about ````Python | Moodle LMS | PHP````
-- 📫 How to reach me: ***Email : suryapratap.bit@gmail.com*** | ***Twitter: @suryapratap_bit***
+- 📫 How to reach me: ***Email : suryapratap.bit@gmail.com*** | ***Twitter: <a href=''>suryapratap_bit</a>***
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
