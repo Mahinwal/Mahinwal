@@ -8,7 +8,7 @@ I am a software engineer who is passionate about web development using Python Dj
 About me:
 
 - 🔭 I’m currently working on ```Python with Django```
-- 🌱 I’m currently learning ```Python ML```
+- 🌱 I’m currently learning ```React.js```
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about ````Python | Moodle LMS | PHP````
